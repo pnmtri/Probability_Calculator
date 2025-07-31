@@ -1,10 +1,10 @@
 # Probability_Calculator
 Python Project (problem from freeCodeCamp.org – Scientific Computing with Python course)
 
-# Description:
+## Description:
 This project helps to estimate the chance (probability) of drawing a group of colored balls from a hat. The result is found by doing many random tests (experiments). This follows the Monte Carlo method. The more tests we do, the more accurate the result is.
 
-# Features:
+## Features:
 
   Create a Hat with different colors and number of balls.
   
@@ -18,7 +18,7 @@ This project helps to estimate the chance (probability) of drawing a group of co
   
   Keeps the original hat safe using deep copy.
 
-# What It Calculates:
+## What It Calculates:
   
   Random draw from the hat.
   
@@ -28,7 +28,7 @@ This project helps to estimate the chance (probability) of drawing a group of co
   
   Final probability = number of successful draws / total experiments.
 
-# What I Learned:
+## What I Learned:
 
   How to use Python classes and keyword arguments.
   
